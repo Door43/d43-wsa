@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wsa:home|Door43 (wsa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wsa|d43-wsa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wsa/archive/master.zip|d43-wsa.zip]]
+
+**Recent Changes**
+{{changes>ns = wsa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wsa|Ethnologue data]]
+
